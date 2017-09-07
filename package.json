@@ -1,9 +1,9 @@
 {
-  "name": "disposable-email-domains",
+  "name": "disposable-email-check",
   "version": "1.0.20",
-  "repository": "https://github.com/ivolo/disposable-email-domains.git",
+  "repository": "https://github.com/AddShoppersJason/disposable-email-domains.git",
   "license": "MIT",
-  "main": "./index.json",
+  "main": "./index.js",
   "scripts": {
     "test": "node ./node_modules/mocha/bin/_mocha"
   },
@@ -13,5 +13,8 @@
     "lodash": "^4.16.4",
     "mocha": "^3.1.2",
     "validator": "^6.1.0"
+  },
+  "dependencies": {
+    "disposable-email-domains": "^1.0.20"
   }
 }
