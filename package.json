@@ -1,6 +1,6 @@
 {
   "name": "disposable-email-check",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "repository": "https://github.com/AddShoppersJason/disposable-email-domains.git",
   "license": "MIT",
   "main": "./index.js",
