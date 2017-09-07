@@ -10,7 +10,6 @@ const DomainCheck = {
     for (var index = 0; index < domains.length; ++index) {
 
       const domain = domains[index];
-      console.log('looping')
 
       if (domain.toLowerCase() === domainToCheck.toLowerCase()) {
         hasMatch = true;
